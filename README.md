@@ -22,3 +22,5 @@ mvn clean test
 ```
 
 The same ran with previous JDK (1.8.0_171 and 1.7.0_95) versions works fine.
+
+Reported as [JDK bug](https://bugs.openjdk.java.net/browse/JDK-8206142).
